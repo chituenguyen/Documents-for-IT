@@ -1,0 +1,29 @@
+upzip file
+xdg-open file
+sudo /usr/pgadmin4/bin/setup-web.sh
+
+git init
+git config --list
+git status xem trang thai file
+git clone 
+git pull lay code ve  
+
+git add  
+git commit -m "add comments"
+git log de kiem tra
+git remote de ket noi
+git push -u origin master
+if pull error:
+ git fetch --all
+ git reset --hard origin/master
+
+
+git pull origin master
+
+
+see another branch
+-git pull
+-git checkout --track origin/${name}
+
+
+swipl -s name.pl
